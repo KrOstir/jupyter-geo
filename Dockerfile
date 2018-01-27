@@ -6,4 +6,4 @@ LABEL maintainer="Kristof Ostir"
 RUN conda install --quiet --yes \
     'gdal' && \
     conda clean -tipsy && \
-fix-permissions $CONDA_DIR
+    fix-permissions $CONDA_DIR
