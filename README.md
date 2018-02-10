@@ -3,6 +3,7 @@
 Jupyter notebook with support for geospatial analyses. Everything that gives [Jupyter Notebook Scientific Python Stack](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook) and more:
 
 * [GDAL](http://www.gdal.org/)
+* [rasterio](https://mapbox.github.io/rasterio/)
 
 ## Basic Use
 
