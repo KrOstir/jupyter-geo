@@ -6,6 +6,6 @@ LABEL maintainer="Kristof Ostir"
 RUN conda install --quiet --yes \
     'gdal' \
     'rasterio' && \
-    conda install -c conda-forge folium --quiet --yes \
+    conda install -c conda-forge folium --quiet --yes && \
     conda clean -tipsy && \
     fix-permissions $CONDA_DIR
