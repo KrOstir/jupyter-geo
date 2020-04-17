@@ -4,6 +4,9 @@ Jupyter notebook with support for geospatial analyses. Everything that gives [Ju
 
 * [GDAL](http://www.gdal.org/)
 * [rasterio](https://mapbox.github.io/rasterio/)
+* [GeoPandas](https://geopandas.org/)
+* [Folium](https://python-visualization.github.io/folium/)
+* [GeoJSON](https://github.com/jazzband/geojson)
 
 ## Basic Use
 
